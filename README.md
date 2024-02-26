@@ -1,6 +1,6 @@
 <h1 align="center">JavaScript Practice 01</h1>
 
-> Just some javascript practice lesson.
+> A script that asks the user to enter two numbers to do math with them.
 
 ## Technologies
 
